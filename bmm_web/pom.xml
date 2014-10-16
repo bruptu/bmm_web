@@ -144,8 +144,8 @@
         <dependency>
             <groupId>com.sun.faces</groupId>
             <artifactId>jsf-api</artifactId>
-            <version>${jsf.version}</version>
-            <scope>compile</scope>
+            <version>2.1.7</version>
+            <type>jar</type>
         </dependency>
 
         <!-- ############## JSF-IMPL ############### -->
